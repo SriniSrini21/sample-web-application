@@ -7,7 +7,8 @@ This is a sample Web Application to use during Continuous Integration demos.
 mvn3 clean package
 ```
 
-# Deploy instruction
+#  Deploy instruction
+#   ins
 
 Deploy ```target/WebApp.war``` on Tomcat
  
