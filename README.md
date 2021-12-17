@@ -1,6 +1,6 @@
 
 
-# Buildd Instruction
+# Build Instruction
 
 
 ```
